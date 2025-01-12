@@ -1,0 +1,3 @@
+0 Kelinci Angora
+1 Kelinci Lop
+2 kelinci himalaya
